@@ -1,0 +1,17 @@
+---
+title: "ggplot_hook"
+author: "Abel Raju"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+## Setting up my environment
+
+Notes: setting up my R environment by loading up packages
+
+```{r loading packages}
+library(tidyverse)
+library(palmerpenguins)
+```
+
